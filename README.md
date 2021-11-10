@@ -45,10 +45,15 @@ Dataset has been provided by for Exploratory Data Analysis. It contains the comp
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Grading system is working as expected, the Low-grade loans have high tendency to default.
+- People with records of bankruptcies should be denied loan.
+- Higher interest rate loan has more defaulter. Always need to check the background of applicant thoroughly whenever interest rate is high.
+- Small businesses are particularly risky, therefore should be cautiously sanctioned.
+- Individuals who have more open credit lines are less likely default, therefore number of open credit lines is a good indicator of financial safety.
+- When the purpose is debt consolidation, more scrutiny of applicant as has high tendency to default.
+- People with records of bankruptcies should be denied loan. individuals may be better strategy than approving their loan with higher interest.
+- The applicant belonging to CA state, need more scrutiny must be done, as tendency to default is high
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
